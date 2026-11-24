@@ -1,0 +1,10 @@
+{
+	"id": "wrap-with-hotkeys",
+	"name": "Wrap with Hotkeys",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.10",
+	"description": "Wrap selected text in custom tags, and set each wrapper's hotkey right where you create it.",
+	"author": "Omer Cooper",
+	"authorUrl": "https://github.com/OmerCooper",
+	"isDesktopOnly": false
+}

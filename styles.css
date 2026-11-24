@@ -1,0 +1,30 @@
+.wwh-hotkey-button {
+	min-width: 120px;
+	font-family: var(--font-monospace);
+}
+
+.wwh-hotkey-label {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	padding: 2px 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+}
+
+.wwh-warning {
+	color: var(--text-warning);
+	font-size: var(--font-ui-small);
+	margin: -4px 0 8px;
+}
+
+.wwh-preview {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+	padding: 6px 8px;
+	margin: 8px 0;
+	background: var(--background-secondary);
+	border-radius: var(--radius-s);
+	white-space: pre-wrap;
+}
